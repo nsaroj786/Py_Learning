@@ -9,7 +9,7 @@ var_int= 10
 var_float= 10.0
 var_char = "Saroj"
 
-print var_int
+print (var_int)
 print var_float
 print var_char
 
